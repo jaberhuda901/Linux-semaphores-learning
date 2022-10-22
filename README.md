@@ -16,3 +16,6 @@ Using fork() to create child processes and using semaphores to manage execution 
   Child: It is the child process!
   Parent: It is the parent process!
 ```
+## Things to Note:
+* The code needs to run on a system which has a linux operating system
+* Some of the code is borrosed from the book: Beginning Linux® Programming 4th Edition Neil Matthew Richard Stones
